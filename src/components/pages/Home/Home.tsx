@@ -26,7 +26,7 @@ const Home: React.FC<IProps> = ({
       error: parsingError
     },
     {
-      text: "Fetching Data",
+      text: "Fetching Placeholder Data",
       active: Boolean(suppliedPosts.length || fetchingError),
       error: fetchingError
     }
