@@ -1,5 +1,6 @@
 {
   "name": "csv-placeholder",
+  "homepage": "https://ilyafd.github.io/csv-placeholder/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
