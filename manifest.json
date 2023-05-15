@@ -1,0 +1,8 @@
+{
+  "short_name": "Autofill companies info",
+  "name": "Autofill companies info",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
