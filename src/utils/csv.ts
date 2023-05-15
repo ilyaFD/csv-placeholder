@@ -1,7 +1,7 @@
 import { readRemoteFile, jsonToCSV } from 'react-papaparse'
 import { IPost } from "../types"
 
-const CSV_URL = "https://ilyafd.github.io/autofill-companies-info/data/posts.csv"
+const CSV_URL = "https://ilyafd.github.io/csv-placeholder/data/posts.csv"
 
 export const parseCSV = (
     completeCb: (data: IPost[] | unknown[]) => void, 
